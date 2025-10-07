@@ -37,6 +37,3 @@ primos_salida = str(primos)[1:-1]
 
 # Salidas
 print(f'Los números primos menores o iguales a {num} son: {primos_salida}.')
-
-
-#Los números primos menores o iguales a 30 son: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
